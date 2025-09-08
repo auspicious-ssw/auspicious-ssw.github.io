@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的个人博客</title>
+    <link>http://localhost:8080/posts/</link>
+    <description>Recent content in Posts on 我的个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Sep 2025 19:10:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客文章</title>
+      <link>http://localhost:8080/posts/my-first-post/</link>
+      <pubDate>Mon, 08 Sep 2025 18:58:16 +0800</pubDate>
+      <guid>http://localhost:8080/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的个人博客&#34;&gt;欢迎来到我的个人博客&lt;/h1&gt;&#xA;&lt;p&gt;这是我在Hugo创建的第一篇博客文章。Hugo是一个用Go语言编写的静态网站生成器，速度非常快！&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么选择hugo&#34;&gt;为什么选择Hugo？&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;速度快&lt;/strong&gt;：Hugo生成网站的速度非常快，即使是大型网站也能在几秒钟内生成&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;灵活性高&lt;/strong&gt;：支持各种主题和自定义配置&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;易于使用&lt;/strong&gt;：简单的命令行界面，学习曲线平缓&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;安全&lt;/strong&gt;：静态网站没有数据库，不容易受到攻击&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;未来计划&#34;&gt;未来计划&lt;/h2&gt;&#xA;&lt;p&gt;在这个博客中，我计划分享关于以下内容的文章：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;技术教程和学习笔记&lt;/li&gt;&#xA;&lt;li&gt;编程经验分享&lt;/li&gt;&#xA;&lt;li&gt;开源项目介绍&lt;/li&gt;&#xA;&lt;li&gt;生活感悟和思考&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;希望大家能够喜欢我的博客！如果你有任何问题或建议，欢迎在评论区留言。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="80" fill="#f0f0f0" stroke="#007bff" stroke-width="2"/>
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333">博客</text>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333">个人</text>
+</svg>

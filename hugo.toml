@@ -1,0 +1,30 @@
+baseURL = 'https://auspicious-ssw.github.io/'
+languageCode = "zh-cn"
+title = "个人博客"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "ssw"
+  description = "分享技术、生活和思考的个人博客"
+  github = "auspicious-ssw"
+  email = "auspicious.ssw@gmail.com"
+  url = "https://auspicious-ssw.github.io/"
+  keywords = "blog, personal"
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "中国"
+  userStatusEmoji = "😀"
+  enableGitalk = false  # 暂时禁用评论功能
+  enableSearch = true
+
+  [[params.links]]
+    title = "GitHub"
+    href = "https://github.com"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

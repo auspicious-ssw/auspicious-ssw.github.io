@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://auspicious-ssw.github.io/post/</loc>
     <lastmod>2025-09-08T20:07:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://auspicious-ssw.github.io/</loc>
     <lastmod>2025-09-08T20:07:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
+    <loc>https://auspicious-ssw.github.io/post/my-first-post/</loc>
     <lastmod>2025-09-08T20:07:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-1/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-1/</loc>
     <lastmod>2025-09-08T20:06:33+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-10/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-10/</loc>
     <lastmod>2025-09-08T20:06:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-2/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-2/</loc>
     <lastmod>2025-09-08T20:06:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-3/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-3/</loc>
     <lastmod>2025-09-08T20:05:45+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-4/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-4/</loc>
     <lastmod>2025-09-08T20:06:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-5/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-5/</loc>
     <lastmod>2025-09-08T20:05:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-6/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-6/</loc>
     <lastmod>2025-09-08T20:06:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-7/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-7/</loc>
     <lastmod>2025-09-08T20:06:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-8/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-8/</loc>
     <lastmod>2025-09-08T20:06:21+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/python-tutorial-9/</loc>
+    <loc>https://auspicious-ssw.github.io/post/python-tutorial-9/</loc>
     <lastmod>2025-09-08T20:06:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/readme/</loc>
+    <loc>https://auspicious-ssw.github.io/readme/</loc>
     <lastmod>2025-09-08T19:25:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://auspicious-ssw.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://auspicious-ssw.github.io/tags/</loc>
   </url>
 </urlset>

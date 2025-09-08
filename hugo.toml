@@ -1,4 +1,4 @@
-baseURL = 'https://auspicious-ssw.github.io/'
+baseURL = "https://auspicious-ssw.github.io/"
 languageCode = "zh-cn"
 title = "个人博客"
 theme = "github-style"

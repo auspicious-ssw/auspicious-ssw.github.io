@@ -26,5 +26,9 @@ pygmentsUseClasses = true
     title = "GitHub"
     href = "https://github.com"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]

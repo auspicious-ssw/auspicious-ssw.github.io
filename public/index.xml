@@ -6,7 +6,7 @@
     <description>Recent content on 个人博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Sep 2025 20:07:09 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 12:47:04 +0800</lastBuildDate>
     <atom:link href="https://auspicious-ssw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客文章</title>
@@ -90,7 +90,7 @@
       <link>https://auspicious-ssw.github.io/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://auspicious-ssw.github.io/readme/</guid>
-      <description>&lt;p&gt;&lt;code&gt;Hello World!&lt;/code&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Skills&lt;/p&gt;&#xA;&lt;p&gt;• Python&lt;/p&gt;&#xA;&lt;p&gt;• C/C++&lt;/p&gt;&#xA;&lt;p&gt;• Node.js&lt;/p&gt;&#xA;&lt;p&gt;• HTML / JavaScript / CSS&lt;/p&gt;&#xA;&lt;p&gt;Link&#xA;• GitHub: auspicious-ssw&lt;/p&gt;&#xA;&lt;p&gt;• Blog: auspicious-ssw.github.io&lt;/p&gt;&#xA;&lt;p&gt;• Email: &lt;a href=&#34;mailto:auspicious.ssw@gmail.com&#34;&gt;auspicious.ssw@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
